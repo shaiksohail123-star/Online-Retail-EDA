@@ -18,5 +18,8 @@ It highlights customer purchasing behavior, top-selling products, and revenue di
 - UK is the largest revenue market.
 - High-volume, low-price products drive customer engagement.
 
+- **Online_Retail_EDA.ipynb** → Jupyter Notebook with coding, visualizations, and analysis
+
+
 ---
 👤 Author: *Shaik Sohail*
